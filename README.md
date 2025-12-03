@@ -58,9 +58,7 @@ This repository contains assignments and projects for the Machine Learning cours
 
 ## Notes
 
-- Large data files (CSV datasets and video recordings) are excluded from version control via `.gitignore`
 - Datasets should be placed in their respective assignment folders for notebooks to run correctly
-- Video demonstrations (`.mp4` files) are available locally but not tracked in git
 
 ## How to Run
 
